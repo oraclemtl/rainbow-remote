@@ -5,3 +5,5 @@ yellow
 green friend's change
 
 blue friend's change new 
+
+indigo  in GIT_TRAIN
