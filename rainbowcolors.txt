@@ -11,3 +11,4 @@ indigo  in GIT_TRAIN
 violet friend's change
 
 grey - is not rainbow color
+These are all rainbow colors
