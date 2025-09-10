@@ -6,4 +6,6 @@ green friend's change
 
 blue friend's change new 
 
+indigo  in GIT_TRAIN
+
 violet friend's change
